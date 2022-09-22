@@ -2,3 +2,7 @@ ipykernel
 ipywidgets
 pandas
 seaborn
+black
+pyspark
+findspark
+networkx
